@@ -1,0 +1,1352 @@
+Slowo: _
+ Ilosc wystapien : 3
+Numery linii: 229 285 353 
+
+Slowo: _strlwr
+ Ilosc wystapien : 3
+Numery linii: 104 105 106 
+
+Slowo: _strupr
+ Ilosc wystapien : 1
+Numery linii: 104 
+
+Slowo: A
+ Ilosc wystapien : 6
+Numery linii: 229 285 353 
+
+Slowo: aktualna
+ Ilosc wystapien : 4
+Numery linii: 255 258 331 336 
+
+Slowo: aktualnie
+ Ilosc wystapien : 2
+Numery linii: 259 337 
+
+Slowo: albo
+ Ilosc wystapien : 3
+Numery linii: 104 
+
+Slowo: alokacja
+ Ilosc wystapien : 7
+Numery linii: 40 48 55 56 64 71 272 
+
+Slowo: alokacji
+ Ilosc wystapien : 9
+Numery linii: 44 52 60 67 76 96 340 343 438 
+
+Slowo: alokuje
+ Ilosc wystapien : 2
+Numery linii: 428 433 
+
+Slowo: B
+ Ilosc wystapien : 1
+Numery linii: 394 
+
+Slowo: binarnego
+ Ilosc wystapien : 1
+Numery linii: 403 
+
+Slowo: Blad
+ Ilosc wystapien : 10
+Numery linii: 44 52 60 67 76 96 249 343 438 454 
+
+Slowo: bo
+ Ilosc wystapien : 1
+Numery linii: 72 
+
+Slowo: break
+ Ilosc wystapien : 1
+Numery linii: 314 
+
+Slowo: BSTTree
+ Ilosc wystapien : 1
+Numery linii: 1 
+
+Slowo: cala
+ Ilosc wystapien : 1
+Numery linii: 404 
+
+Slowo: calloc
+ Ilosc wystapien : 10
+Numery linii: 40 48 55 56 64 71 210 256 332 434 
+
+Slowo: char
+ Ilosc wystapien : 49
+Numery linii: 8 10 14 15 16 17 18 19 23 38 55 56 87 90 92 227 232 236 242 254 256 257 267 330 332 340 360 430 434 447 450 460 
+
+Slowo: ci
+ Ilosc wystapien : 1
+Numery linii: 259 
+
+Slowo: copy1
+ Ilosc wystapien : 9
+Numery linii: 90 94 99 105 109 110 118 121 
+
+Slowo: copy2
+ Ilosc wystapien : 9
+Numery linii: 92 94 101 106 113 114 118 122 
+
+Slowo: CreateTree
+ Ilosc wystapien : 3
+Numery linii: 19 28 38 
+
+Slowo: current
+ Ilosc wystapien : 6
+Numery linii: 416 417 419 420 
+
+Slowo: currentLine
+ Ilosc wystapien : 10
+Numery linii: 484 485 487 488 509 511 513 514 
+
+Slowo: czy
+ Ilosc wystapien : 1
+Numery linii: 190 
+
+Slowo: d
+ Ilosc wystapien : 9
+Numery linii: 137 144 160 171 394 413 419 
+
+Slowo: danych
+ Ilosc wystapien : 1
+Numery linii: 458 
+
+Slowo: define
+ Ilosc wystapien : 1
+Numery linii: 6 
+
+Slowo: dla
+ Ilosc wystapien : 16
+Numery linii: 40 48 55 56 64 71 183 259 296 337 340 371 428 433 445 479 
+
+Slowo: do
+ Ilosc wystapien : 31
+Numery linii: 30 32 73 80 93 100 104 145 183 199 216 295 302 308 325 340 359 370 376 387 394 398 403 412 419 429 446 
+
+Slowo: dodac
+ Ilosc wystapien : 1
+Numery linii: 199 
+
+Slowo: dodajemy
+ Ilosc wystapien : 3
+Numery linii: 183 292 367 
+
+Slowo: dodanie
+ Ilosc wystapien : 1
+Numery linii: 218 
+
+Slowo: dodatkowe
+ Ilosc wystapien : 1
+Numery linii: 458 
+
+Slowo: dopiero
+ Ilosc wystapien : 1
+Numery linii: 272 
+
+Slowo: drugi
+ Ilosc wystapien : 1
+Numery linii: 100 
+
+Slowo: drugiego
+ Ilosc wystapien : 1
+Numery linii: 91 
+
+Slowo: drzeawa
+ Ilosc wystapien : 1
+Numery linii: 404 
+
+Slowo: drzewa
+ Ilosc wystapien : 9
+Numery linii: 26 40 80 295 370 387 398 403 494 
+
+Slowo: duzych
+ Ilosc wystapien : 1
+Numery linii: 104 
+
+Slowo: dynamicznie
+ Ilosc wystapien : 2
+Numery linii: 89 91 
+
+Slowo: el
+ Ilosc wystapien : 3
+Numery linii: 199 420 514 
+
+Slowo: elemencie
+ Ilosc wystapien : 1
+Numery linii: 79 
+
+Slowo: element
+ Ilosc wystapien : 4
+Numery linii: 72 73 140 209 
+
+Slowo: elementu
+ Ilosc wystapien : 4
+Numery linii: 71 145 216 218 
+
+Slowo: eli
+ Ilosc wystapien : 1
+Numery linii: 265 
+
+Slowo: else
+ Ilosc wystapien : 3
+Numery linii: 30 32 34 
+
+Slowo: EOF
+ Ilosc wystapien : 5
+Numery linii: 261 282 309 334 350 
+
+Slowo: ewentualnie
+ Ilosc wystapien : 1
+Numery linii: 199 
+
+Slowo: fclose
+ Ilosc wystapien : 3
+Numery linii: 318 382 400 
+
+Slowo: fgetc
+ Ilosc wystapien : 7
+Numery linii: 261 282 285 309 334 350 353 
+
+Slowo: FILE
+ Ilosc wystapien : 6
+Numery linii: 12 244 326 388 391 405 
+
+Slowo: filename
+ Ilosc wystapien : 1
+Numery linii: 391 
+
+Slowo: fin
+ Ilosc wystapien : 12
+Numery linii: 244 247 261 282 285 309 318 326 334 350 353 382 
+
+Slowo: FindAndInsert
+ Ilosc wystapien : 6
+Numery linii: 10 23 31 33 295 370 
+
+Slowo: fopen
+ Ilosc wystapien : 2
+Numery linii: 244 391 
+
+Slowo: for
+ Ilosc wystapien : 2
+Numery linii: 109 113 
+
+Slowo: formujemy
+ Ilosc wystapien : 2
+Numery linii: 287 362 
+
+Slowo: fout
+ Ilosc wystapien : 13
+Numery linii: 12 388 391 393 398 400 405 411 413 414 419 422 423 
+
+Slowo: fprintf
+ Ilosc wystapien : 4
+Numery linii: 413 414 419 422 
+
+Slowo: free
+ Ilosc wystapien : 12
+Numery linii: 121 122 297 317 372 480 489 491 495 515 519 520 
+
+Slowo: FreeTree
+ Ilosc wystapien : 6
+Numery linii: 467 472 476 498 505 506 
+
+Slowo: fukcji
+ Ilosc wystapien : 1
+Numery linii: 73 
+
+Slowo: funk
+ Ilosc wystapien : 1
+Numery linii: 340 
+
+Slowo: funkcja
+ Ilosc wystapien : 2
+Numery linii: 270 359 
+
+Slowo: funkcje
+ Ilosc wystapien : 1
+Numery linii: 324 
+
+Slowo: funkcji
+ Ilosc wystapien : 1
+Numery linii: 398 
+
+Slowo: gdy
+ Ilosc wystapien : 1
+Numery linii: 35 
+
+Slowo: go
+ Ilosc wystapien : 1
+Numery linii: 140 
+
+Slowo: h
+ Ilosc wystapien : 5
+Numery linii: 1 2 3 4 5 
+
+Slowo: i
+ Ilosc wystapien : 38
+Numery linii: 72 81 109 110 113 114 117 140 145 199 258 263 272 279 288 292 295 296 302 308 336 347 355 363 367 370 371 376 404 433 
+
+Slowo: identyfikatora
+ Ilosc wystapien : 2
+Numery linii: 275 345 
+
+Slowo: if
+ Ilosc wystapien : 30
+Numery linii: 26 30 32 42 50 58 65 74 94 134 156 168 191 201 211 247 263 276 300 311 338 341 355 374 393 407 436 452 469 500 
+
+Slowo: ifa
+ Ilosc wystapien : 1
+Numery linii: 273 
+
+Slowo: Ilosc
+ Ilosc wystapien : 3
+Numery linii: 137 181 413 
+
+Slowo: ilosci
+ Ilosc wystapien : 1
+Numery linii: 404 
+
+Slowo: iloscwystapien
+ Ilosc wystapien : 7
+Numery linii: 82 137 160 171 181 413 
+
+Slowo: include
+ Ilosc wystapien : 5
+Numery linii: 1 2 3 4 5 
+
+Slowo: inf
+ Ilosc wystapien : 2
+Numery linii: 404 412 
+
+Slowo: inicjacja
+ Ilosc wystapien : 3
+Numery linii: 81 82 416 
+
+Slowo: inicjalizacja
+ Ilosc wystapien : 1
+Numery linii: 79 
+
+Slowo: inicjuje
+ Ilosc wystapien : 1
+Numery linii: 433 
+
+Slowo: inOrder
+ Ilosc wystapien : 3
+Numery linii: 129 136 148 
+
+Slowo: InOrderToFile
+ Ilosc wystapien : 5
+Numery linii: 12 398 405 411 423 
+
+Slowo: int
+ Ilosc wystapien : 30
+Numery linii: 8 9 10 11 14 15 16 18 19 23 38 87 109 113 118 178 188 227 232 236 255 258 259 331 336 337 432 447 
+
+Slowo: isAlpha
+ Ilosc wystapien : 4
+Numery linii: 16 236 282 350 
+
+Slowo: istnieje
+ Ilosc wystapien : 1
+Numery linii: 203 
+
+Slowo: itteracji
+ Ilosc wystapien : 2
+Numery linii: 302 376 
+
+Slowo: jak
+ Ilosc wystapien : 1
+Numery linii: 272 
+
+Slowo: je
+ Ilosc wystapien : 1
+Numery linii: 265 
+
+Slowo: jego
+ Ilosc wystapien : 2
+Numery linii: 265 357 
+
+Slowo: jesli
+ Ilosc wystapien : 8
+Numery linii: 26 30 32 209 269 458 459 469 
+
+Slowo: jest
+ Ilosc wystapien : 6
+Numery linii: 26 35 265 357 458 459 
+
+Slowo: jezeli
+ Ilosc wystapien : 3
+Numery linii: 302 357 376 
+
+Slowo: ju
+ Ilosc wystapien : 1
+Numery linii: 203 
+
+Slowo: kolejnego
+ Ilosc wystapien : 3
+Numery linii: 145 296 371 
+
+Slowo: kolejnej
+ Ilosc wystapien : 2
+Numery linii: 302 376 
+
+Slowo: kolejnosci
+ Ilosc wystapien : 1
+Numery linii: 72 
+
+Slowo: konca
+ Ilosc wystapien : 2
+Numery linii: 292 367 
+
+Slowo: koncu
+ Ilosc wystapien : 1
+Numery linii: 273 
+
+Slowo: koniec
+ Ilosc wystapien : 1
+Numery linii: 218 
+
+Slowo: kopie
+ Ilosc wystapien : 4
+Numery linii: 89 91 104 120 
+
+Slowo: kopii
+ Ilosc wystapien : 2
+Numery linii: 93 100 
+
+Slowo: korzen
+ Ilosc wystapien : 1
+Numery linii: 469 
+
+Slowo: kszamy
+ Ilosc wystapien : 1
+Numery linii: 265 
+
+Slowo: L
+ Ilosc wystapien : 3
+Numery linii: 131 154 167 
+
+Slowo: Letter
+ Ilosc wystapien : 5
+Numery linii: 14 227 238 276 338 
+
+Slowo: lewe
+ Ilosc wystapien : 3
+Numery linii: 81 411 471 
+
+Slowo: lewego
+ Ilosc wystapien : 2
+Numery linii: 30 505 
+
+Slowo: licznika
+ Ilosc wystapien : 1
+Numery linii: 82 
+
+Slowo: linia
+ Ilosc wystapien : 15
+Numery linii: 9 11 140 142 144 145 178 183 188 201 216 255 331 
+
+Slowo: linii
+ Ilosc wystapien : 25
+Numery linii: 64 72 73 79 139 140 145 183 196 203 209 216 302 308 376 404 414 416 419 483 508 
+
+Slowo: linijka
+ Ilosc wystapien : 7
+Numery linii: 255 295 303 313 331 370 377 
+
+Slowo: list
+ Ilosc wystapien : 5
+Numery linii: 188 191 197 220 221 
+
+Slowo: liste
+ Ilosc wystapien : 1
+Numery linii: 196 
+
+Slowo: ListHead
+ Ilosc wystapien : 4
+Numery linii: 11 64 188 
+
+Slowo: ListItem
+ Ilosc wystapien : 14
+Numery linii: 71 140 197 209 210 216 416 484 487 509 510 
+
+Slowo: listy
+ Ilosc wystapien : 13
+Numery linii: 64 71 73 79 140 145 183 199 218 416 483 508 
+
+Slowo: liter
+ Ilosc wystapien : 1
+Numery linii: 104 
+
+Slowo: lub
+ Ilosc wystapien : 2
+Numery linii: 429 446 
+
+Slowo: ma
+ Ilosc wystapien : 1
+Numery linii: 459 
+
+Slowo: malloc
+ Ilosc wystapien : 2
+Numery linii: 90 92 
+
+Slowo: malych
+ Ilosc wystapien : 1
+Numery linii: 104 
+
+Slowo: MemoryAllocate
+ Ilosc wystapien : 4
+Numery linii: 17 257 340 430 
+
+Slowo: MemoryRealloc
+ Ilosc wystapien : 3
+Numery linii: 18 359 447 
+
+Slowo: memset
+ Ilosc wystapien : 1
+Numery linii: 460 
+
+Slowo: miejsce
+ Ilosc wystapien : 1
+Numery linii: 458 
+
+Slowo: mniejsza
+ Ilosc wystapien : 1
+Numery linii: 30 
+
+Slowo: mniejszy
+ Ilosc wystapien : 1
+Numery linii: 459 
+
+Slowo: n
+ Ilosc wystapien : 24
+Numery linii: 44 52 60 67 76 96 137 147 160 171 249 300 311 343 374 394 413 422 438 454 
+
+Slowo: na
+ Ilosc wystapien : 13
+Numery linii: 72 81 89 91 120 140 218 272 273 416 420 445 514 
+
+Slowo: nast
+ Ilosc wystapien : 1
+Numery linii: 514 
+
+Slowo: nastepny
+ Ilosc wystapien : 1
+Numery linii: 420 
+
+Slowo: next
+ Ilosc wystapien : 6
+Numery linii: 145 207 220 420 488 514 
+
+Slowo: nic
+ Ilosc wystapien : 1
+Numery linii: 203 
+
+Slowo: nie
+ Ilosc wystapien : 3
+Numery linii: 203 209 459 
+
+Slowo: niepotrzebnych
+ Ilosc wystapien : 1
+Numery linii: 458 
+
+Slowo: niepusty
+ Ilosc wystapien : 1
+Numery linii: 469 
+
+Slowo: niz
+ Ilosc wystapien : 1
+Numery linii: 458 
+
+Slowo: NodeValue
+ Ilosc wystapien : 9
+Numery linii: 48 56 160 171 
+
+Slowo: nowego
+ Ilosc wystapien : 3
+Numery linii: 40 216 218 
+
+Slowo: nowej
+ Ilosc wystapien : 3
+Numery linii: 302 308 376 
+
+Slowo: nowo
+ Ilosc wystapien : 1
+Numery linii: 446 
+
+Slowo: nowy
+ Ilosc wystapien : 9
+Numery linii: 26 209 210 211 216 220 221 445 458 
+
+Slowo: nr
+ Ilosc wystapien : 8
+Numery linii: 73 183 196 209 302 376 404 419 
+
+Slowo: nrlinii
+ Ilosc wystapien : 16
+Numery linii: 64 65 71 72 74 79 140 160 171 183 416 484 491 492 509 
+
+Slowo: nSize
+ Ilosc wystapien : 6
+Numery linii: 18 445 447 450 458 460 
+
+Slowo: NULL
+ Ilosc wystapien : 25
+Numery linii: 45 53 61 68 77 81 94 191 211 247 250 253 329 393 407 429 439 446 473 477 481 492 510 511 
+
+Slowo: num
+ Ilosc wystapien : 1
+Numery linii: 483 
+
+Slowo: Number
+ Ilosc wystapien : 10
+Numery linii: 15 79 144 160 171 201 216 232 238 419 
+
+Slowo: NumberOfLine
+ Ilosc wystapien : 3
+Numery linii: 11 183 188 
+
+Slowo: numer
+ Ilosc wystapien : 2
+Numery linii: 145 203 
+
+Slowo: numer_linii
+ Ilosc wystapien : 9
+Numery linii: 10 19 23 28 31 33 35 38 79 
+
+Slowo: numerem
+ Ilosc wystapien : 1
+Numery linii: 73 
+
+Slowo: numerow
+ Ilosc wystapien : 5
+Numery linii: 64 140 183 416 508 
+
+Slowo: numeru
+ Ilosc wystapien : 2
+Numery linii: 79 216 
+
+Slowo: numery
+ Ilosc wystapien : 3
+Numery linii: 72 139 414 
+
+Slowo: nWord
+ Ilosc wystapien : 5
+Numery linii: 450 452 455 460 462 
+
+Slowo: ny
+ Ilosc wystapien : 1
+Numery linii: 265 
+
+Slowo: o
+ Ilosc wystapien : 4
+Numery linii: 181 404 428 433 
+
+Slowo: obie
+ Ilosc wystapien : 2
+Numery linii: 104 120 
+
+Slowo: od
+ Ilosc wystapien : 1
+Numery linii: 30 
+
+Slowo: odczytywania
+ Ilosc wystapien : 1
+Numery linii: 249 
+
+Slowo: odwrotnej
+ Ilosc wystapien : 1
+Numery linii: 72 
+
+Slowo: ostatnim
+ Ilosc wystapien : 1
+Numery linii: 308 
+
+Slowo: otwieramy
+ Ilosc wystapien : 1
+Numery linii: 390 
+
+Slowo: otwierania
+ Ilosc wystapien : 1
+Numery linii: 394 
+
+Slowo: owa
+ Ilosc wystapien : 4
+Numery linii: 55 56 80 445 
+
+Slowo: owie
+ Ilosc wystapien : 1
+Numery linii: 308 
+
+Slowo: owo
+ Ilosc wystapien : 1
+Numery linii: 295 
+
+Slowo: p
+ Ilosc wystapien : 55
+Numery linii: 9 10 23 26 28 30 31 32 33 35 40 42 48 50 55 56 58 64 65 71 72 74 79 80 81 82 83 129 134 136 137 140 148 152 156 158 159 160 165 168 171 172 173 178 181 183 
+
+Slowo: pam
+ Ilosc wystapien : 3
+Numery linii: 340 359 433 
+
+Slowo: pami
+ Ilosc wystapien : 1
+Numery linii: 259 
+
+Slowo: pamiec
+ Ilosc wystapien : 7
+Numery linii: 89 91 120 273 428 445 479 
+
+Slowo: pamieci
+ Ilosc wystapien : 5
+Numery linii: 96 337 429 446 458 
+
+Slowo: pe
+ Ilosc wystapien : 1
+Numery linii: 265 
+
+Slowo: pelny
+ Ilosc wystapien : 1
+Numery linii: 357 
+
+Slowo: pFirst
+ Ilosc wystapien : 12
+Numery linii: 71 72 74 79 140 160 171 197 416 484 509 
+
+Slowo: pierw
+ Ilosc wystapien : 1
+Numery linii: 513 
+
+Slowo: pierwszego
+ Ilosc wystapien : 1
+Numery linii: 71 
+
+Slowo: pierwszy
+ Ilosc wystapien : 4
+Numery linii: 11 73 93 140 
+
+Slowo: pierwszym
+ Ilosc wystapien : 1
+Numery linii: 79 
+
+Slowo: pierwzego
+ Ilosc wystapien : 1
+Numery linii: 89 
+
+Slowo: pLast
+ Ilosc wystapien : 4
+Numery linii: 72 220 221 
+
+Slowo: pLeft
+ Ilosc wystapien : 9
+Numery linii: 31 81 136 158 172 411 472 473 505 
+
+Slowo: plik
+ Ilosc wystapien : 3
+Numery linii: 242 244 390 
+
+Slowo: pliku
+ Ilosc wystapien : 8
+Numery linii: 249 255 331 387 394 403 412 419 
+
+Slowo: po
+ Ilosc wystapien : 1
+Numery linii: 308 
+
+Slowo: poczatek
+ Ilosc wystapien : 1
+Numery linii: 416 
+
+Slowo: poczatkowym
+ Ilosc wystapien : 1
+Numery linii: 428 
+
+Slowo: podczas
+ Ilosc wystapien : 8
+Numery linii: 44 52 60 67 76 249 394 454 
+
+Slowo: poddrzewa
+ Ilosc wystapien : 5
+Numery linii: 30 32 81 505 506 
+
+Slowo: poddrzewo
+ Ilosc wystapien : 4
+Numery linii: 411 423 471 475 
+
+Slowo: pomijamy
+ Ilosc wystapien : 1
+Numery linii: 308 
+
+Slowo: pomocniczej
+ Ilosc wystapien : 1
+Numery linii: 398 
+
+Slowo: poprzedni
+ Ilosc wystapien : 1
+Numery linii: 458 
+
+Slowo: porownac
+ Ilosc wystapien : 1
+Numery linii: 117 
+
+Slowo: postOrder
+ Ilosc wystapien : 3
+Numery linii: 152 158 159 
+
+Slowo: potrzeby
+ Ilosc wystapien : 1
+Numery linii: 459 
+
+Slowo: pozbywamy
+ Ilosc wystapien : 1
+Numery linii: 458 
+
+Slowo: pozycja
+ Ilosc wystapien : 2
+Numery linii: 258 336 
+
+Slowo: prawe
+ Ilosc wystapien : 3
+Numery linii: 81 423 475 
+
+Slowo: prawego
+ Ilosc wystapien : 2
+Numery linii: 32 506 
+
+Slowo: preOrder
+ Ilosc wystapien : 3
+Numery linii: 165 172 173 
+
+Slowo: pRight
+ Ilosc wystapien : 9
+Numery linii: 33 81 148 159 173 423 476 477 506 
+
+Slowo: printf
+ Ilosc wystapien : 17
+Numery linii: 44 52 60 67 76 96 137 139 144 147 160 171 249 343 394 438 454 
+
+Slowo: pRoot
+ Ilosc wystapien : 26
+Numery linii: 154 253 295 319 329 370 383 467 469 472 473 476 477 480 481 484 491 492 495 498 500 505 506 509 519 520 
+
+Slowo: przechodzimy
+ Ilosc wystapien : 6
+Numery linii: 30 32 145 302 308 376 
+
+Slowo: przechowywanego
+ Ilosc wystapien : 2
+Numery linii: 55 56 
+
+Slowo: przekazac
+ Ilosc wystapien : 1
+Numery linii: 73 
+
+Slowo: przekonwertowac
+ Ilosc wystapien : 1
+Numery linii: 104 
+
+Slowo: przesuwamy
+ Ilosc wystapien : 2
+Numery linii: 420 514 
+
+Slowo: przeszukujemy
+ Ilosc wystapien : 1
+Numery linii: 196 
+
+Slowo: przypisanie
+ Ilosc wystapien : 1
+Numery linii: 216 
+
+Slowo: pTree
+ Ilosc wystapien : 10
+Numery linii: 12 388 398 405 407 411 413 416 423 
+
+Slowo: pusta
+ Ilosc wystapien : 1
+Numery linii: 190 
+
+Slowo: pusty
+ Ilosc wystapien : 1
+Numery linii: 26 
+
+Slowo: pWord
+ Ilosc wystapien : 41
+Numery linii: 18 30 32 55 56 58 80 137 160 171 256 257 267 279 288 292 295 297 317 332 340 341 347 359 360 363 367 370 372 413 434 436 442 447 450 480 481 519 
+
+Slowo: R
+ Ilosc wystapien : 4
+Numery linii: 131 154 167 244 
+
+Slowo: ReadfromFile
+ Ilosc wystapien : 3
+Numery linii: 242 325 326 
+
+Slowo: realloc
+ Ilosc wystapien : 4
+Numery linii: 267 270 360 450 
+
+Slowo: realokacja
+ Ilosc wystapien : 2
+Numery linii: 272 449 
+
+Slowo: realokacji
+ Ilosc wystapien : 1
+Numery linii: 359 
+
+Slowo: realokowania
+ Ilosc wystapien : 1
+Numery linii: 454 
+
+Slowo: realokuje
+ Ilosc wystapien : 1
+Numery linii: 445 
+
+Slowo: rek
+ Ilosc wystapien : 2
+Numery linii: 411 423 
+
+Slowo: rekurencyjnego
+ Ilosc wystapien : 1
+Numery linii: 403 
+
+Slowo: rekurencyjnie
+ Ilosc wystapien : 2
+Numery linii: 471 475 
+
+Slowo: res
+ Ilosc wystapien : 2
+Numery linii: 118 125 
+
+Slowo: return
+ Ilosc wystapien : 25
+Numery linii: 45 53 61 68 77 83 97 125 193 204 213 223 229 234 238 250 319 383 395 408 439 442 455 462 502 
+
+Slowo: robi
+ Ilosc wystapien : 1
+Numery linii: 203 
+
+Slowo: Root
+ Ilosc wystapien : 2
+Numery linii: 131 167 
+
+Slowo: rowna
+ Ilosc wystapien : 1
+Numery linii: 35 
+
+Slowo: rozmiar
+ Ilosc wystapien : 6
+Numery linii: 259 265 337 357 445 458 
+
+Slowo: rozmiarze
+ Ilosc wystapien : 2
+Numery linii: 428 433 
+
+Slowo: s
+ Ilosc wystapien : 10
+Numery linii: 55 56 80 137 160 171 295 308 413 445 
+
+Slowo: s1
+ Ilosc wystapien : 4
+Numery linii: 8 87 90 99 
+
+Slowo: s2
+ Ilosc wystapien : 4
+Numery linii: 8 87 92 101 
+
+Slowo: sam
+ Ilosc wystapien : 1
+Numery linii: 72 
+
+Slowo: SaveToFile
+ Ilosc wystapien : 1
+Numery linii: 388 
+
+Slowo: sie
+ Ilosc wystapien : 2
+Numery linii: 269 458 
+
+Slowo: size
+ Ilosc wystapien : 11
+Numery linii: 259 263 266 267 337 355 358 359 360 432 434 
+
+Slowo: sizeof
+ Ilosc wystapien : 14
+Numery linii: 40 48 55 56 64 71 210 256 267 332 360 434 450 460 
+
+Slowo: skopiowanie
+ Ilosc wystapien : 1
+Numery linii: 80 
+
+Slowo: slow
+ Ilosc wystapien : 4
+Numery linii: 258 259 336 337 
+
+Slowo: slowa
+ Ilosc wystapien : 9
+Numery linii: 82 181 183 296 340 371 428 433 479 
+
+Slowo: slowach
+ Ilosc wystapien : 1
+Numery linii: 404 
+
+Slowo: Slowo
+ Ilosc wystapien : 6
+Numery linii: 137 287 362 370 413 519 
+
+Slowo: slwoa
+ Ilosc wystapien : 2
+Numery linii: 292 367 
+
+Slowo: spacje
+ Ilosc wystapien : 1
+Numery linii: 308 
+
+Slowo: sprawdzamy
+ Ilosc wystapien : 2
+Numery linii: 42 190 
+
+Slowo: sprawdzic
+ Ilosc wystapien : 1
+Numery linii: 199 
+
+Slowo: STALA
+ Ilosc wystapien : 13
+Numery linii: 6 256 266 271 332 337 358 428 432 433 458 460 
+
+Slowo: stan
+ Ilosc wystapien : 1
+Numery linii: 513 
+
+Slowo: stdio
+ Ilosc wystapien : 1
+Numery linii: 3 
+
+Slowo: stdlib
+ Ilosc wystapien : 1
+Numery linii: 2 
+
+Slowo: StrCmp
+ Ilosc wystapien : 6
+Numery linii: 8 30 32 87 117 118 
+
+Slowo: strcpy
+ Ilosc wystapien : 4
+Numery linii: 80 93 99 101 
+
+Slowo: string
+ Ilosc wystapien : 1
+Numery linii: 5 
+
+Slowo: stringa
+ Ilosc wystapien : 2
+Numery linii: 89 91 
+
+Slowo: strlen
+ Ilosc wystapien : 4
+Numery linii: 55 89 90 92 
+
+Slowo: struktura
+ Ilosc wystapien : 1
+Numery linii: 404 
+
+Slowo: tablicy
+ Ilosc wystapien : 4
+Numery linii: 258 259 336 337 
+
+Slowo: tak
+ Ilosc wystapien : 1
+Numery linii: 72 
+
+Slowo: tekstowego
+ Ilosc wystapien : 3
+Numery linii: 249 387 403 
+
+Slowo: temp
+ Ilosc wystapien : 9
+Numery linii: 197 201 207 487 489 510 513 515 
+
+Slowo: ten
+ Ilosc wystapien : 1
+Numery linii: 72 
+
+Slowo: time
+ Ilosc wystapien : 1
+Numery linii: 4 
+
+Slowo: to
+ Ilosc wystapien : 5
+Numery linii: 26 35 302 376 459 
+
+Slowo: tolower
+ Ilosc wystapien : 2
+Numery linii: 110 114 
+
+Slowo: trafie
+ Ilosc wystapien : 1
+Numery linii: 272 
+
+Slowo: TreeItem
+ Ilosc wystapien : 21
+Numery linii: 9 10 12 19 23 38 40 129 152 165 178 242 253 326 329 388 405 467 498 
+
+Slowo: trzeba
+ Ilosc wystapien : 1
+Numery linii: 203 
+
+Slowo: tworzymy
+ Ilosc wystapien : 3
+Numery linii: 26 140 209 
+
+Slowo: ustawiamy
+ Ilosc wystapien : 1
+Numery linii: 140 
+
+Slowo: usuwa
+ Ilosc wystapien : 2
+Numery linii: 471 475 
+
+Slowo: Visit
+ Ilosc wystapien : 4
+Numery linii: 9 35 178 
+
+Slowo: void
+ Ilosc wystapien : 12
+Numery linii: 9 10 12 23 129 152 165 178 388 405 467 498 
+
+Slowo: w
+ Ilosc wystapien : 10
+Numery linii: 72 79 181 255 258 331 336 391 438 479 
+
+Slowo: wart
+ Ilosc wystapien : 1
+Numery linii: 80 
+
+Slowo: wartosc
+ Ilosc wystapien : 1
+Numery linii: 30 
+
+Slowo: wartosci
+ Ilosc wystapien : 2
+Numery linii: 30 48 
+
+Slowo: wedlug
+ Ilosc wystapien : 2
+Numery linii: 275 345 
+
+Slowo: weze
+ Ilosc wystapien : 1
+Numery linii: 26 
+
+Slowo: wezel
+ Ilosc wystapien : 1
+Numery linii: 520 
+
+Slowo: wezla
+ Ilosc wystapien : 3
+Numery linii: 30 48 80 
+
+Slowo: wezlaa
+ Ilosc wystapien : 1
+Numery linii: 40 
+
+Slowo: wezle
+ Ilosc wystapien : 2
+Numery linii: 181 479 
+
+Slowo: while
+ Ilosc wystapien : 11
+Numery linii: 142 261 282 285 309 334 350 353 417 485 511 
+
+Slowo: wieksza
+ Ilosc wystapien : 1
+Numery linii: 32 
+
+Slowo: wkopiowac
+ Ilosc wystapien : 2
+Numery linii: 93 100 
+
+Slowo: wsk
+ Ilosc wystapien : 5
+Numery linii: 81 140 416 429 446 
+
+Slowo: wskaznik
+ Ilosc wystapien : 1
+Numery linii: 26 
+
+Slowo: wskazuja
+ Ilosc wystapien : 1
+Numery linii: 72 
+
+Slowo: wstawiamy
+ Ilosc wystapien : 2
+Numery linii: 295 370 
+
+Slowo: wstawic
+ Ilosc wystapien : 1
+Numery linii: 73 
+
+Slowo: wsystapien
+ Ilosc wystapien : 1
+Numery linii: 404 
+
+Slowo: wwezla
+ Ilosc wystapien : 1
+Numery linii: 494 
+
+Slowo: wynik
+ Ilosc wystapien : 2
+Numery linii: 117 124 
+
+Slowo: wypelnia
+ Ilosc wystapien : 1
+Numery linii: 458 
+
+Slowo: wypelniania
+ Ilosc wystapien : 1
+Numery linii: 459 
+
+Slowo: wypisywalo
+ Ilosc wystapien : 1
+Numery linii: 72 
+
+Slowo: wystapien
+ Ilosc wystapien : 3
+Numery linii: 137 181 413 
+
+Slowo: wyswietlamy
+ Ilosc wystapien : 1
+Numery linii: 145 
+
+Slowo: wyszukujemy
+ Ilosc wystapien : 2
+Numery linii: 295 370 
+
+Slowo: wywolanie
+ Ilosc wystapien : 1
+Numery linii: 398 
+
+Slowo: x
+ Ilosc wystapien : 13
+Numery linii: 10 19 23 28 30 31 32 33 38 55 56 80 
+
+Slowo: z
+ Ilosc wystapien : 7
+Numery linii: 73 229 285 353 
+
+Slowo: zaalokowac
+ Ilosc wystapien : 2
+Numery linii: 89 91 
+
+Slowo: zaalokowanej
+ Ilosc wystapien : 5
+Numery linii: 259 337 429 446 458 
+
+Slowo: zachowana
+ Ilosc wystapien : 1
+Numery linii: 404 
+
+Slowo: zamiast
+ Ilosc wystapien : 1
+Numery linii: 271 
+
+Slowo: zapamietac
+ Ilosc wystapien : 1
+Numery linii: 117 
+
+Slowo: zapamietuje
+ Ilosc wystapien : 1
+Numery linii: 513 
+
+Slowo: zapisu
+ Ilosc wystapien : 2
+Numery linii: 394 398 
+
+Slowo: zapisuje
+ Ilosc wystapien : 2
+Numery linii: 411 423 
+
+Slowo: zapisujemy
+ Ilosc wystapien : 2
+Numery linii: 412 419 
+
+Slowo: zapisywania
+ Ilosc wystapien : 2
+Numery linii: 387 403 
+
+Slowo: zasad
+ Ilosc wystapien : 2
+Numery linii: 275 345 
+
+Slowo: zawartosci
+ Ilosc wystapien : 2
+Numery linii: 387 403 
+
+Slowo: zeby
+ Ilosc wystapien : 1
+Numery linii: 196 
+
+Slowo: zerami
+ Ilosc wystapien : 3
+Numery linii: 433 458 459 
+
+Slowo: znak
+ Ilosc wystapien : 52
+Numery linii: 14 15 16 227 229 232 234 236 238 254 261 272 276 279 282 285 288 292 300 302 309 311 330 334 338 347 350 353 363 367 374 376 
+
+Slowo: znalezc
+ Ilosc wystapien : 1
+Numery linii: 196 
+
+Slowo: znaleziony
+ Ilosc wystapien : 1
+Numery linii: 209 
+
+Slowo: zostal
+ Ilosc wystapien : 1
+Numery linii: 209 
+
+Slowo: zostatnim
+ Ilosc wystapien : 1
+Numery linii: 199 
+
+Slowo: zrobic
+ Ilosc wystapien : 1
+Numery linii: 324 
+
+Slowo: zrobilem
+ Ilosc wystapien : 1
+Numery linii: 72 
+
+Slowo: zwalniamy
+ Ilosc wystapien : 3
+Numery linii: 479 519 520 
+
+Slowo: zwi
+ Ilosc wystapien : 1
+Numery linii: 265 
+
+Slowo: zwiekszamy
+ Ilosc wystapien : 4
+Numery linii: 181 302 357 376 
+
+Slowo: zwol
+ Ilosc wystapien : 1
+Numery linii: 505 
+
+Slowo: zwolnic
+ Ilosc wystapien : 2
+Numery linii: 120 273 
+
+Slowo: zwolnienie
+ Ilosc wystapien : 4
+Numery linii: 483 494 506 508 
+
+Slowo: Zwraca
+ Ilosc wystapien : 2
+Numery linii: 429 446 
+
+Slowo: zwrocic
+ Ilosc wystapien : 1
+Numery linii: 124 
+
